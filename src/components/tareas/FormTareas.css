@@ -1,0 +1,12 @@
+.containerFormTareas{
+    margin: 0px !important;
+    padding: 0px !important;
+    height: 30% !important;
+    max-width: 100% !important;
+    background-color: #51c4d3;
+}
+
+.btnAgregarTarea{
+    background-color: #132c33 !important;
+    color: #d8e3e7 !important;
+}

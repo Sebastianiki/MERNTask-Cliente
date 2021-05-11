@@ -1,0 +1,22 @@
+.appHeader{
+    height: 5% !important;
+    background-color: #126e82;
+}
+
+.pUsuario{
+    font-size: 1.5em;
+    color: #d8e3e7;
+}
+
+.spanUsuario{
+    font-weight: 700;
+}
+
+.textNav{
+    color: #d8e3e7;
+}
+
+.btnCerrarSesion{
+    background-color: #126E82 !important;
+    border: none !important;
+}

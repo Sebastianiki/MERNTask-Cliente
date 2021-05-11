@@ -1,0 +1,47 @@
+.contenedorForm{
+  width: 35%;
+  max-height : 600px;
+  padding: 25px;
+  border : 1px solid;
+  border-radius: 25px;
+  background-color: #126e82;
+}
+  
+.loginLogo{
+  max-width: 200px;
+  max-height: 200px;
+}
+  
+.btnLogin{
+  background-color: #132c33 !important;
+  color: #d8e3e7 !important;
+  font-weight: bold !important;
+}
+  
+.btnLogin:hover{
+  border: 1px solid #d8e3e7 !important;
+}
+
+.btnNuevaCuenta{
+  background-color: #51c4d3 !important;
+  color: #132c33 !important;
+  font-weight: bold !important;
+}
+
+.btnNuevaCuenta:hover{
+  border: 1px solid #d8e3e7 !important;
+  text-decoration: none !important;
+}
+
+.recuperarPassword{
+    text-align: center;
+    color: #51c4d3;
+}
+
+.recuperarPassword:hover{
+  color: #132c33 !important;
+}
+
+.link{
+  text-decoration: none !important;
+}

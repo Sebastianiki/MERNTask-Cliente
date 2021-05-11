@@ -1,0 +1,33 @@
+.tareadiv{
+    height: 50px !important;
+    border: 1px;
+    border-radius: 10px;
+    padding: 0% 2% 0% 2%;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray
+}
+
+.btnTarea{
+    margin-left: 4%;
+    padding: 1.2% 3% 1.2% 3% !important;
+}
+
+.completo{
+    padding: 1%;
+    background-color: lightgreen;
+    border: 1px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    color: #132c33;
+}
+.tareaEstado:hover{
+    cursor: pointer;
+}
+.incompleto{
+    padding: 1%;
+    background-color: lightcoral;
+    border: 1px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    color: #132c33;
+}

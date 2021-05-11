@@ -1,0 +1,21 @@
+.btnNuevoProyecto{
+    background-color: #51c4d3 !important;
+    color: #132c33 !important;
+    font-weight: bold !important;
+  }
+  
+.btnNuevoProyecto:hover{
+    border: 1px solid #d8e3e7 !important;
+    text-decoration: none !important;
+}
+
+.btnCancelarNuevoProyecto{
+  background-color: #db6131 !important;
+  color: #132c33 !important;
+  font-weight: bold !important;
+}
+
+.btnCancelarNuevoProyecto:hover{
+  border: 1px solid #d8e3e7 !important;
+  text-decoration: none !important;
+}

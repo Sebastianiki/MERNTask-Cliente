@@ -1,0 +1,39 @@
+.contenedorForm{
+    width: 35%;
+    max-height : 600px;
+    padding: 25px;
+    border : 1px solid;
+    border-radius: 25px;
+    background-color: #126e82;
+  }
+    
+  .btnCrearCuenta{
+    background-color: #132c33 !important;
+    color: #d8e3e7 !important;
+    font-weight: bold !important;
+  }
+    
+  .btnCrearCuenta:hover{
+    border: 1px solid #d8e3e7 !important;
+  }
+  
+  .btnVolver{
+    background-color: #51c4d3 !important;
+    color: #132c33 !important;
+    font-weight: bold !important;
+  }
+  
+  .btnVolver:hover{
+    border: 1px solid #d8e3e7 !important;
+    text-decoration: none !important;
+  }
+  
+  .link{
+    text-decoration: none !important;
+  }
+
+  .alertaNuevaCuenta{
+    position: absolute !important;
+    top: 0;
+    margin-top: 6em;
+  }

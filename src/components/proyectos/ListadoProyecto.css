@@ -1,0 +1,41 @@
+.list-group{
+    text-align: center;
+    font-weight: 600;
+}
+
+.list-group-item{
+    border: none !important;
+    background-color: #132c33 !important;
+    color: #d8e3e7 !important;
+}
+.list-group-item:hover{
+    background-color: #d8e3e7 !important;
+    color: #132c33 !important;
+    cursor: pointer;
+}
+.noProyectos{
+    text-align: center;
+    color: #d8e3e7;
+}
+
+.proyectoTransition-enter {
+    opacity: 0;
+}
+.proyectoTransition-enter-active {
+    opacity: 1;
+    transition: opacity 200ms;
+}
+.proyectoTransition-exit {
+    opacity: 1;
+}
+.proyectoTransition-exit-active {
+    opacity: 0;
+    transition: opacity 200ms;
+}
+
+.alertaEliminarError{
+    position: absolute !important;
+    margin-top: 20em;
+    margin-left: 3em;
+}
+  

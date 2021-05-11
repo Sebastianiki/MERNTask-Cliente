@@ -1,0 +1,22 @@
+.barraLateral{
+    background-color: #132c33 !important;
+}
+
+.tituloBarraLateral{
+    color: #d8e3e7;
+    text-align: center;
+}
+
+.tituloBarraLateral > strong{
+    color: #e4eaec;
+}
+
+.tituloProyectos{
+    color: #d8e3e7;
+    text-align: center;
+}
+
+h2 > span {
+    font-weight: 1000;
+    color: #51c4d3;
+}
